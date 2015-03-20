@@ -3,7 +3,8 @@ Android HTML application skeleton
 
 Very simple but usable skeleton for Android HTML application.
 
-Including menu with exit and reload options.
+Includes menu with exit and reload options.
+Enables JS and DOM storage.
 
-Create new project, copy assets/ and res/ directories into it and use MainActivity depending on minimap SDK version.
+Create new project, copy assets/ and res/ directories into it and use MainActivity depending on minimal SDK version.
 
